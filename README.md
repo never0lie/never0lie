@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @never0lie
-- 👀 I’m interested in distributed computing and backend development 
-- 🌱 I’m currently learning Golang and machine learning
-- 💞️ I’m looking to collaborate on backend projects
-- 📫 How to reach me ...
+- 🏫 UT Austin BS/MS CS 24'
+- 👀 I’m interested in distributed computing and backend/infra development
 
 <!---
 never0lie/never0lie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
