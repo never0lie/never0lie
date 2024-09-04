@@ -2,6 +2,7 @@
 
 - 🏫 UT Austin BS/MS CS 24'
 - 👀 I’m interested in distributed computing and backend/infra development
+- this is my work account ➡️ [sx-klaviyo](https://github.com/sx-klaviyo)
 
 
 <!---
